@@ -1,0 +1,2 @@
+# SaltMini
+Salt Value Develops
