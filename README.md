@@ -16,18 +16,18 @@ Salt Value Develops
 ### 2. 日志模块
 # restful 接口开发
 ###  hello cosintan
-功能：测试Get请求和路由
-请求URL：https://www.cosintan.cn/applet/photos/index
-请求方法：GET
-返回：
-200 
+#### 功能：测试Get请求和路由
+#### 请求URL：https://www.cosintan.cn/applet/photos/index
+#### 请求方法：GET
+#### 返回：
+#### 200 
 Hello cosintan!
 ### GET OBJECTS
-功能：获取所有图片信息
-请求URL：https://www.cosintan.cn/applet/photos/list
-请求方法：GET
-返回：
-200 
+#### 功能：获取所有图片信息
+#### 请求URL：https://www.cosintan.cn/applet/photos/list
+#### 请求方法：GET
+#### 返回：
+#### 200 
 {
     "code": 0,
     "msg": "ok",
