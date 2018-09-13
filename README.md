@@ -1,14 +1,14 @@
 # SaltMini
 Salt Value Develops
-. 后台开发语言：Node.js
-. 数据库：mysql
+.后台开发语言：Node.js
+.数据库：mysql
 . 代码管理：Git
-. 工作分支：dev_1(合入代码所用分支)
-. 网络代理：nginx
-. 网络方式：HTTPS
-. 域名：https://www.cosintan.cn
-. 推荐开发工具： VS Code
-. 推荐测试工具：Postman
+.工作分支：dev_1(合入代码所用分支)
+.网络代理：nginx
+.网络方式：HTTPS
+.域名：https://www.cosintan.cn
+.推荐开发工具： VS Code
+.推荐测试工具：Postman
 # 编码规范
 # 项目结构
 ## 模块
