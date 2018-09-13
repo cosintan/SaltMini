@@ -3,7 +3,9 @@
     "script": "app.js",
     "cwd": "./",
     "exec_mode": "fork",
-    "watch": true,
+    "watch": false,
+    "error_file":"./logs/error_node.log",
+    "out_file":"./logs/out_node.log",
     "ignore_watch": ["tmp"],
     "env": {
         "NODE_ENV": "production"
