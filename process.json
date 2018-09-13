@@ -4,8 +4,8 @@
     "cwd": "./",
     "exec_mode": "fork",
     "watch": false,
-    "error_file":"./logs/error_node.log",
-    "out_file":"./logs/out_node.log",
+    "error_file":"/var/log/saltmini/error_node.log",
+    "out_file":"/var/log/saltmini/out_node.log",
     "ignore_watch": ["tmp"],
     "env": {
         "NODE_ENV": "production"

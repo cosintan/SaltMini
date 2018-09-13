@@ -7,7 +7,8 @@ const morgan = require('morgan');
 const config = require('./config');
 const fs = require('fs');
 const path = require('path');
-const accessLogStream = fs.createWriteStream(path.join(__dirname, './logs/access.log'), {flags: 'a'});
+const nodeLogPath='/var/log/saltmini'
+const accessLogStream = fs.createWriteStream(path.join(nodeLogPath, 'access.log'), {flags: 'a'});
 const app = express();
 
 app.set('query parser', 'simple');
