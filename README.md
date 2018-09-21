@@ -36,7 +36,7 @@ Hello cosintan!
     ]
 }
 # api 开发
-# 数据库表设计 TSALTMINI
+# 数据库表设计 SALTMINI
 ### 用户类
 #### 1.1 用户基本信息表 tUser
 
